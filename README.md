@@ -1,3 +1,20 @@
+# Electronic and mobile commerce - second laboratory assignment
+Link to the application: https://emtlibrary.herokuapp.com/ <br/>
+***NOTE***: loading the data from the database may take a moment, try to refresh the page after a few minutes
+
+#### Home page with pagination
+![Screenshot](images/Screenshot_1.png)
+#### Edit book
+![Screenshot](images/Screenshot_3.png)
+#### Add new book
+![Screenshot](images/Screenshot_4.png)
+#### Categories page
+![Screenshot](images/Screenshot_2.png)
+#### Before clicking 'Mark as taken' on the 'Anna Karenina' book
+![Screenshot](images/Screenshot_1.png)
+#### After clicking 'Mark as taken' on the 'Anna Karenina' book
+![Screenshot](images/Screenshot_5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
