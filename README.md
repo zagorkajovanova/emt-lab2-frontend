@@ -1,6 +1,5 @@
 # Electronic and mobile commerce - second laboratory assignment
-Link to the application: https://emtlibrary.herokuapp.com/ <br/>
-***NOTE***: loading the data from the database may take a moment, try to refresh the page after a few minutes
+Link to the application: https://emtlibrary.herokuapp.com/books <br/>
 
 #### Home page with pagination
 ![Screenshot](images/Screenshot_1.png)
